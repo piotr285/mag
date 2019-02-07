@@ -1,0 +1,169 @@
+
+
+uzywac wielobajtowego kodowania znakow unicode!
+
+
+1A
+227	Most Szczytnicki - al. Kochanowskiego z pn na p≥d zach	2083-2088, 1487-1494
+
+228	Most Szczytnicki - pl. Grunwaldzki z zach na wschÛd 2077-2082, 1480-1486
+
+189	pl. Grunwaldzki - ul. Norwida	904, 1427, 1429, 1431, 3913, 3914
+
+1036	pl. Grunwaldzki		1747-1757, 900, 902, 905-906, 908-915, 918
+
+126	pl. Grunwaldzki - ul. Polaka	917, 1246-1248
+
+
+1B
+1065/65	ul. Kromera - ul. Toru‰ska	1840-1849, 1014-1022, 3968-3969
+170	ul. Wyszy‰skiego - ul. Jednoòci Narodowej 1384-1385, 1387-1388, 3909-3910
+18	pl. Powsta‰c¢w Warszawy - pl. Spoàeczny	1694-1701, 838-850, 3845-3846
+15	pl. Wr¢blewskiego 805-814, 1668-1675
+
+2A
+88	ul. Lotnicza - ul. Horbaczewskiego	1141
+91	ul. Legnicka - ul. Na Ostatnim Groszu	1907-1920, 1125-1139, 3871-3872
+159	ul. Na Ostatnim Groszu - ul. Orli‰skiego	1350-1355, 2033-2037
+169	ul. Na Ostatnim Groszu - ul. Bystrzycka	2049-2058, 1372-1382
+168	ul. Kleci‰ska - ul. Szkocka		2043-2048, 1364-1369, 1371, 3908
+171	ul. Kleci‰ska - ul. Szwajcarska		2059-2065, 1389-1395
+127	ul. Grabiszy‰ska - ul. Kleci‰ska	1986-1997, 1249-1259
+136	al. Hallera - al. Pracy		1273, 1275, 1279, 3882-3887
+143	al. Hallera - ul. Beyzyma	1300, 1303-1304, 3896-3898
+151	al. Hallera - ul. Mielecka	2025-2032, 1333-1340
+37	al. Hallera - ul. Gajowicka	1759-1768, 919-924, 3854
+
+2B
+91	ul. Legnicka - ul. Na Ostatnim Groszu	1907-1920, 1125-1139, 3871-3872
+69	ul. Legnicka - ul. Zachodnia	1850-1857, 1034-1035, 1038-1041, 3861
+71	ul. Legnicka - ul. Nabyci‰ska	1863-1871, 1045-1052, 3862
+73	ul. Legnicka - ul. Wejherowska	1054-1063, 1077, 1132
+76	ul. Legnicka - ul. Nied´wiedzia	1873-1880, 1078-1087
+75	ul. Legnicka - ul. Maàopanewska	1058, 1069-1076, 3864
+
+
+100	ul. Legnicka - ul. Zàotoryjska	1037, 1161
+262	ul. Legnicka - ul. Sokolnicza	1577-1578
+
+1	pl. Jana Pawàa II	1580-1591 709-710, 713, 716-717, 3837
+3	pl. Legion¢w		1602-1613, 3838, 697-698, 733, 736-745, 773
+32	ul. Grabiszy‰ska - ul. Zaporoska	1735-1731, 882-891
+37	al. Hallera - ul. Gajowicka	919-924, 3854, 1759-1769
+
+3A
+126	pl. Grunwaldzki - ul. Polaka	917, 1246-1248
+15	pl. Wr¢blewskiego		1668-1675, 805-814
+56	pl. Dominika‰ski		1810-1821, 3856, 972-982
+53	ul. Dyrekcyjna - ul. Borowska	969-971
+42	ul. ól©æna - ul. Studzienna	954-957
+50	ul. ól©æna - al. Armii Krajowej	1789-1797, 941-952
+
+
+3B
+126	pl. Grunwaldzki - ul. Polaka	917, 1246-1248
+15	pl. Wr¢blewskiego		1668-1675, 805-814
+31	ul. Kazimierza Wielkiego - ul. Szewska	878-881, 1718-1724
+47	ul. ówidnicka - ul. Boæego Ciaàa	1798-1801, 953
+8	ul. Podwale - ul. ówidnicka	1644-1648, 775-782
+4	ul. Piàsudskiego - ul. ówidnicka	1614-1623, 747-749, 751-752
+40	ul. ówidnicka - arkady	939-940, 1786-1787
+9	ul. Powsta‰c¢w ól•skich - ul. Swobodna	1649-1655, 750, 783-791, 1098, 3840
+161	ul. Powsta‰c¢w ól•skich - ul. Zaolzia‰ska	2038-2042, 1356-1357
+25	ul. Powsta‰c¢w ól•skich - ul. Wielka	1709-1716, 858-866, 3847
+214	ul. Powsta‰c¢w ól•skich - ul. Sztabowa	1461,1463,3918-3919
+35	ul. Powsta‰c¢w ól•skich - al. Hallera	1732-1745, 892-899
+147	ul. Powsta‰c¢w ól•skich - ul. Kutnowska	1321-1322, 1325, 3901-3902
+213	ul. Powsta‰c¢w ól•skich - al. Jaworowa	1457, 1459, 3916-3917
+148	ul. Powsta‰c¢w ól•skich - ul. Krzycka	2019-2023, 1326-1332
+Karkonoska - Zwyci©ska
+
+4A
+
+69	ul. Legnicka - ul. Zachodnia	1850-1857, 1034-1035, 1038-1041, 3861
+71	ul. Legnicka - ul. Nabyci‰ska	1863-1871, 1045-1052, 3862
+73	ul. Legnicka - ul. Wejherowska	1054-1063, 1077, 1132
+76	ul. Legnicka - ul. Nied´wiedzia	1873-1880, 1078-1087
+
+100	ul. Legnicka - ul. Zàotoryjska	1037, 1161
+262	ul. Legnicka - ul. Sokolnicza	1577-1578
+
+1	pl. Jana Pawàa II	1580-1591 709-710, 713, 716-717, 3837
+38	ul. Kazimierza Wielkiego - ul. Ruska	1770-1776, 3855, 927-931, 938
+30	ul. Kazimierza Wielkiego - ul. Krupnicza	871, 875, 877, 3848-3850
+31	ul. Kazimierza Wielkiego - ul. Szewska	1717-1724, 878-881
+56	pl. Dominika‰ski		1810-1821, 3856, 972-982
+15	pl. Wr¢blewskiego		1668-1675, 805-814
+126	pl. Grunwaldzki - ul. Polaka	917, 1246-1248
+
+1036	pl. Grunwaldzki		1747-1757, 900, 902, 905-906, 908-915, 918
+189	pl. Grunwaldzki - ul. Norwida	904, 1427, 1429, 1431, 3913, 3914
+228	Most Szczytnicki - pl. Grunwaldzki 2077-2082, 1480-1486 
+
+4B
+76	ul. Legnicka - ul. Nied´wiedzia	1873-1880, 1078-1087
+69	ul. Legnicka - ul. Zachodnia	1850-1857, 1034-1035, 1038-1041, 3861
+120	ul. Dmowskiego - ul. Wàadysàawa Jagieàày	1978-1985, 1232-1240
+118	ul. Dubois - ul. Kurkowa	1970-1976, 1220-1227
+61	ul. Pomorska - ul. Dubois	995-1000, 3857-3858
+59	ul. Dubois - ul. Drobnera	1823-1827, 983-986
+60	ul. Drobnera - ul. ùokietka	1829-1833, 987-993
+23	pl. Bema		1702-1708, 852-857
+228	Most Szczytnicki - pl. Grunwaldzki 2077-2082, 1480-1486 
+
+5A
+Ωmigrodzka - Obwodnica
+Ωmigr¢d Brama
+172	ul. Milenijna - ul. Popowicka	1128, 1396-1408
+91	ul. Legnicka - ul. Na Ostatnim Groszu	1907-1920, 1125-1139, 3871-3872
+159	ul. Na Ostatnim Groszu - ul. Orli‰skiego	1350-1355, 2033-2037
+169	ul. Na Ostatnim Groszu - ul. Bystrzycka	2049-2058, 1372-1382
+168	ul. Kleci‰ska - ul. Szkocka		2043-2048, 1364-1369, 1371, 3908
+171	ul. Kleci‰ska - ul. Szwajcarska		2059-2065, 1389-1395
+127	ul. Grabiszy‰ska - ul. Kleci‰ska	1986-1997, 1249-1259
+136	al. Hallera - al. Pracy		1273, 1275, 1279, 3882-3887
+143	al. Hallera - ul. Beyzyma	1300, 1303-1304, 3896-3898
+151	al. Hallera - ul. Mielecka	2025-2032, 1333-1340
+37	al. Hallera - ul. Gajowicka	1759-1768, 919-924, 3854
+
+5B
+Ωmigrodzka - Obwodnica
+Ωmigr¢d Brama
+114	ul. Baàtycka - ul. Ωmigrodzka	1196-1203, 1961-1969
+61	ul. Pomorska - ul. Dubois	995-1000, 3857-3858
+118	ul. Dubois - ul. Kurkowa	1970-1976, 1220-1227
+120	ul. Dmowskiego - ul. Wàadysàawa Jagieàày	1978-1985, 1232-1240
+70	ul. Podwale - ul. Sikorskiego		1858-1862, 1042-1044
+1	pl. Jana Pawàa II	1580-1591 709-710, 713, 716-717, 3837
+3	pl. Legion¢w		1602-1613, 3838, 697-698, 733, 736-745, 773
+32	ul. Grabiszy‰ska - ul. Zaporoska	1735-1731, 882-891
+37	al. Hallera - ul. Gajowicka	919-924, 3854, 1759-1769
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

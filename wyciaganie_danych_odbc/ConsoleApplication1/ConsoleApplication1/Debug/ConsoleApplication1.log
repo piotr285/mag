@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(63): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(183): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(189): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(211): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(143): warning C4101: "SQLStmt": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(163): warning C4101: "SQLStmt": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(290): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(292): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(236): warning C4101: "rc1": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(233): warning C4101: "SQLStmt": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\e431\desktop\magisterka\wyciaganie_danych_odbc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(236): warning C4101: "rc2": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication1.vcxproj -> C:\Users\E431\Desktop\magisterka\wyciaganie_danych_odbc\ConsoleApplication1\Debug\ConsoleApplication1.exe

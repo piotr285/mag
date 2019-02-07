@@ -1,0 +1,1 @@
+bcp ITS.dbo.BRDObiekt_Globalny format nul -c -f BRDObiekt_Globalny-c.fmt -T  

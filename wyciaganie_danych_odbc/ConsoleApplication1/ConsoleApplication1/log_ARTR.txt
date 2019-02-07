@@ -1,0 +1,1 @@
+SELECT Czas_Przejazdu FROM DPTPrzejazd WHERE Id_Globalny_Punkt_A=676 AND Id_Globalny_Punkt_B=674 AND (Czas_Punkt_A >= CONVERT(datetime, CONVERT("varchar"(23), '2014-05-14 07:00:00.000', 23), 111)) AND (Czas_Punkt_A < CONVERT(datetime, CONVERT("varchar"(23), '2014-05-14 09:00:00.000', 23), 111))

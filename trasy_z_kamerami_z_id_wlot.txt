@@ -1,0 +1,134 @@
+----1A-------
+680||681
+227	Most Szczytnicki - al. Kochanowskiego 1494 || 1487, 1488
+228	Most Szczytnicki - pl. Grunwaldzki 1483 || 1480, 1481
+687||686--------------------------------------------------------------
+1036	pl. Grunwaldzki 908,909 || 902
+126	pl. Grunwaldzki - ul. Polaka 1246 || 1248
+706|688
+ =================================================================
+
+----1B------
+680||681
+1065/65	ul. Kromera - ul. Toru‰ska  1020 || 1014,1021
+170	ul. Wyszy‰skiego - ul. Jednoòci Narodowej 1387 || 1384, 1385
+18	pl. Powsta‰c¢w Warszawy - pl. Spoàeczny 850, 849|| 838,839
+682||683 ==================================================================
+----2A-----
+676||675
+91	ul. Legnicka - ul. Na Ostatnim Groszu 1133, 1134  || 1137,1138,1139
+159	ul. Na Ostatnim Groszu - ul. Orli‰skiego 1353,1354|| 1350,1351
+169	ul. Na Ostatnim Groszu - ul. Bystrzycka  1377,1378|| 1372, 1373
+168	ul. Kleci‰ska - ul. Szkocka 1368, 1369|| 1364,1365
+171	ul. Kleci‰ska - ul. Szwajcarska 1393|| 1389,1390
+127	ul. Grabiszy‰ska - ul. Kleci‰ska 1252,1253|| 1258,1259
+143	al. Hallera - ul. Beyzyma 1303,1304||1300
+151	al. Hallera - ul. Mielecka 1334, 1335||1338,1339
+37	al. Hallera - ul. Gajowicka 920, 921||923, 924
+705||677 =================================================================
+----2B-----
+676||675
+91	ul. Legnicka - ul. Na Ostatnim Groszu 1129,1130 || 1137,1138,1139
+76	ul. Legnicka - ul. Nied´wiedzia 1079,1080 || 1084,1086,1087
+69	ul. Legnicka - ul. Zachodnia 1034, 1035 || 1039,1040
+674||673----------------------------------------------------------------
+71	ul. Legnicka - ul. Nabyci‰ska 1047,1048 || 1050,1051
+1	pl. Jana Pawàa II 714 || 716,717
+701||702-------------------------------------------------------------
+pl.Orlat lwowskich 725 ||718
+3	pl. Legion¢w 740,741 || 743,744
+697||698------------------------------------------------------------
+32	ul. Grabiszy‰ska - ul. Zaporoska 882,883 || 885,886
+37	al. Hallera - ul. Gajowicka 920, 921||923, 924
+705||677
+=======================================================================
+------3A-------
+706||688
+126	pl. Grunwaldzki - ul. Polaka 1246 || 1248
+15	pl. Wr¢blewskiego 810 || 805
+53	ul. Dyrekcyjna - ul. Borowska 970 ||971
+50	ul. ól©æna - al. Armii Krajowej 947,948 || 941,942
+671||672
+=======================================================================
+------3B--------
+706||688
+126	pl. Grunwaldzki - ul. Polaka 1246 || 1248
+15	pl. Wr¢blewskiego 812, 813 || 806
+31	ul. Kazimierza Wielkiego - ul. Szewska 880 || 878
+8	ul. Podwale - ul. ówidnicka 779 || 775
+4	ul. Piàsudskiego - ul. ówidnicka 749 || 747
+40	ul. ówidnicka - arkady 940 || 939
+9	ul. Powsta‰c¢w ól•skich - ul. Swobodna 789,790 || 784,783
+693||694--------------------------------------------------------
+161	ul. Powsta‰c¢w ól•skich - ul. Zaolzia‰ska 1357 || 1356
+25	ul. Powsta‰c¢w ól•skich - ul. Wielka 862, 863 || 858, 859
+35	ul. Powsta‰c¢w ól•skich - al. Hallera 896, 897 || 892
+147	ul. Powsta‰c¢w ól•skich - ul. Kutnowska 1321|| 1325
+678||679------------------------------------------------------------
+213	ul. Powsta‰c¢w ól•skich - al. Jaworowa	1457|| 1459
+148	ul. Powsta‰c¢w ól•skich - ul. Krzycka 1329, 1330 || 1326, 1327
+671||672
+=======================================================================
+-----4A------
+?????
+91	ul. Legnicka - ul. Na Ostatnim Groszu 1129,1130 || 1137,1138,1139
+76	ul. Legnicka - ul. Nied´wiedzia 1079,1080 || 1084,1086,1087
+674||673----------------------------------------------------------------
+69	ul. Legnicka - ul. Zachodnia 1034, 1035 || 1039,1040
+71	ul. Legnicka - ul. Nabyci‰ska 1047,1048 || 1050,1051
+1	pl. Jana Pawàa II 714 || 716,717
+701||702-------------------------------------------------------------
+38	ul. Kazimierza Wielkiego - ul. Ruska	927, 928 || 936,937
+31	ul. Kazimierza Wielkiego - ul. Szewska	878 || 880
+56	pl. Dominika‰ski	975, 976 || 980,981
+18	pl. Powsta‰c¢w Warszawy - pl. Spoàeczny 841,842,843 || 849,850
+688||706----------------------------------------------------------------
+126	pl. Grunwaldzki - ul. Polaka 1248 || 1246
+1036	pl. Grunwaldzki 902 || 908,909  
+228	Most Szczytnicki - pl. Grunwaldzki  1480, 1481 || 1483
+686||687
+===============================================================
+-----4B-------
+674||673
+120	ul. Dmowskiego - ul. Wàadysàawa Jagieàày 1233, 1234 || 1238,1239
+118	ul. Dubois - ul. Kurkowa	1225,1226 || 1220,1221
+61	ul. Pomorska - ul. Dubois	995 || 998,999
+684||685----------------------------------------------------------------
+59	ul. Dubois - ul. Drobnera 983 || 986
+60	ul. Drobnera - ul. ùokietka	991 || 988
+23	pl. Bema		853 || 856
+228	Most Szczytnicki - pl. Grunwaldzki 1483 ||1480,1481
+686||687
+================================================================
+------5A------
+670||669
+172	ul. Milenijna - ul. Popowicka 1396|| 1403
+91	ul. Legnicka - ul. Na Ostatnim Groszu 1133, 1134  || 1125,1126
+159	ul. Na Ostatnim Groszu - ul. Orli‰skiego 1353,1354|| 1350,1351
+169	ul. Na Ostatnim Groszu - ul. Bystrzycka  1377,1378|| 1372, 1373
+168	ul. Kleci‰ska - ul. Szkocka 1368, 1369|| 1364,1365
+171	ul. Kleci‰ska - ul. Szwajcarska 1393|| 1389,1390
+127	ul. Grabiszy‰ska - ul. Kleci‰ska 1252,1253|| 1258,1259
+143	al. Hallera - ul. Beyzyma 1303,1304||1300
+151	al. Hallera - ul. Mielecka 1334, 1335||1338,1339
+705||677------------------------------------------------------------
+37	al. Hallera - ul. Gajowicka 920, 921||923, 924
+ul. Powsta‰c¢w ól•skich - al. Hallera 896,897 || 898,899
+678||679=========================================================
+-------5B---------
+670||669
+114	ul. Baàtycka - ul. Ωmigrodzka	1203 || 1196
+61	ul. Pomorska - ul. Dubois	996 || 995
+118	ul. Dubois - ul. Kurkowa	1220,1221 || 1225,1226 
+120	ul. Dmowskiego - ul. Wàadysàawa Jagieàày	1235, 1236 || 1233, 1234
+70	ul. Podwale - ul. Sikorskiego		1043 || 1042
+1	pl. Jana Pawàa II	714 || 707,708
+pl.Orlat lwowskich 725 ||718
+697||698-------------------------------------------------------------
+3	pl. Legion¢w 740,741 || 743,744
+32	ul. Grabiszy‰ska - ul. Zaporoska 882,883 || 885,886
+705||677------------------------------------------------------------
+37	al. Hallera - ul. Gajowicka 920, 921||923, 924
+ul. Powsta‰c¢w ól•skich - al. Hallera 896,897 || 898,899
+678||679==============================================================
+
